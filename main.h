@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 9d84fe8cc0722aa8565ea653ac0ef05e3b928996
-#ifndef MAIN_H
-#define MAIN_H
+
+
 #include <stdarg.h>
 #include <stdio.h>
 #include <unistd.h>
